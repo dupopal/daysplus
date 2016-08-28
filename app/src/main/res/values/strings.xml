@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Days Plus</string>
+    <string name="action_addday">Add New Date</string>
+    <string name="action_done">Save</string>
+    <string name="action_setting">Settings</string>
+</resources>

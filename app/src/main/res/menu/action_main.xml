@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_setting"
+        android:title="@string/action_setting"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_addday"
+        android:title="@string/action_addday"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="always" />
+
+</menu>
